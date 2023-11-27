@@ -1,2 +1,1 @@
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9cZQnwdzUXTDG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-cute-9cZQnwdzUXTDG">via GIPHY</a></p>
+![Header](https://github.com/niktos12/niktos12/blob/main/giphy.webp)
