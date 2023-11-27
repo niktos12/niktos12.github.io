@@ -1,2 +1,2 @@
 # niktos12.github.io
-<div class="tenor-gif-embed" data-postid="25469676" data-share-method="host" data-aspect-ratio="0.6375" data-width="100%"><a href="https://tenor.com/view/hello-chat-hello-jaguarman-fate-anime-gif-25469676">Hello Chat Jaguarman GIF</a>from <a href="https://tenor.com/search/hello+chat-gifs">Hello Chat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/ru/view/hello-chat-hello-jaguarman-fate-anime-gif-25469676
