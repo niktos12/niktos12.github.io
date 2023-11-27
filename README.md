@@ -1,2 +1,2 @@
-# niktos12.github.io
-[https://tenor.com/ru/view/hello-chat-hello-jaguarman-fate-anime-gif-25469676](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8yczU5NzExNHRkcTJjMzBnaHAxeGY2cHdwdWNrNDZlb3VzZHkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9cZQnwdzUXTDG/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8yczU5NzExNHRkcTJjMzBnaHAxeGY2cHdwdWNrNDZlb3VzZHkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9cZQnwdzUXTDG/giphy.gif
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9cZQnwdzUXTDG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-cute-9cZQnwdzUXTDG">via GIPHY</a></p>
