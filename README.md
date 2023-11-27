@@ -6,10 +6,10 @@
 - I`m studying in college
    Languages and tools that i know:
 <div>
-  <img src='https://github.com/niktos12/niktos12/blob/main/html5-original.svg' width="40" height="40">
-  <img src='https://github.com/niktos12/niktos12/blob/main/css3-original.svg' width="40" height="40">
-  <img src='https://github.com/niktos12/niktos12/blob/main/sass-original.svg' width="40" height="40">
-  <img src='https://github.com/niktos12/niktos12/blob/main/javascript-original.svg' width="40" height="40">
+  <img src='https://github.com/niktos12/niktos12/blob/main/html5-original.svg' width="100" height="100">
+  <img src='https://github.com/niktos12/niktos12/blob/main/css3-original.svg' width="100" height="100">
+  <img src='https://github.com/niktos12/niktos12/blob/main/sass-original.svg' width="100" height="100">
+  <img src='https://github.com/niktos12/niktos12/blob/main/javascript-original.svg' width="100" height="100">
 </div>
 And start learning:
-<img src='https://github.com/niktos12/niktos12/blob/main/react-original.svg' width="40" height="40">
+<img src='https://github.com/niktos12/niktos12/blob/main/react-original.svg' width="100" height="100">
