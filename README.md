@@ -1,4 +1,5 @@
 ![Header](https://github.com/niktos12/niktos12/blob/main/giphy.webp)
+Hi I`m Nikita and i want to be a frontend developer
 
 ### :man_technologist: About Me :
 
