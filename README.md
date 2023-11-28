@@ -19,4 +19,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=niktos12&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niktos12&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niktos12)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/niktos12)
+
 
