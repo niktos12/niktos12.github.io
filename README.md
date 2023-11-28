@@ -20,5 +20,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niktos12&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niktos12)](https://github.com/anuraghazra/github-readme-stats)
 # My top projects:
-- ![Static Badge](https://github.com/niktos12/upgraded_verstka_2&text=First-place)
+- ![Static Badge](https://github.com/niktos12/upgraded_verstka_2)
 
