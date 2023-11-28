@@ -4,6 +4,7 @@
 
 - I`m interesting frontend development
 - I`m studying in college
+- I love learning something new
 # Languages and tools that i know:
 
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
