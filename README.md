@@ -6,7 +6,6 @@
 - I`m studying in college
 - I love learning something new
 # Languages and tools that i know:
-
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![SCSS](https://img.shields.io/badge/_-SCSS-C6538C.svg?style=for-the-badge)
@@ -19,7 +18,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=niktos12&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niktos12&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niktos12)](https://github.com/anuraghazra/github-readme-stats)
-# My top projects:
-- ![Static Badge](https://img.shields.io/badge/First%20place?link=https%3A%2F%2Fniktos12.github.io%2Fupgraded_verstka_2%2F)
+
 
 
