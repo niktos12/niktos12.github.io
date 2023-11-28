@@ -10,7 +10,9 @@
   ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![SCSS](https://img.shields.io/badge/_-SCSS-C6538C.svg?style=for-the-badge)
   <img src='https://github.com/niktos12/niktos12/blob/main/javascript-original.svg' width="50" height="50">
-And start learning:
+  ![Static Badge](https://img.shields.io/badge/:badgeContent?logo=sass)
+
+# And start learning:
 <img src='https://github.com/niktos12/niktos12/blob/main/react-original.svg' width="100" height="100">
 
 # My statistics:
