@@ -13,10 +13,8 @@
 # And start learning:
 ![Static Badge](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
-# My statistics:
-![GitHub top language](https://img.shields.io/github/languages/top/niktos12/niktos12)
+### My statistics:
+[![GitHub Streak](https://streak-stats.demolab.com?user=niktos12&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niktos12&show_icons=true&theme=radical)
 
-![GitHub language count](https://img.shields.io/github/languages/count/niktos12/niktos12)
-
-![Static Badge](https://www.codewars.com/users/niktos12/badges/large)
 
