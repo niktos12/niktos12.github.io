@@ -4,12 +4,16 @@
 
 - I`m interesting frontend development
 - I`m studying in college
-   Languages and tools that i know:
+# Languages and tools that i know:
 <div>
-  <img src='https://github.com/niktos12/niktos12/blob/main/html5-original.svg' width="100" height="100">
-  <img src='https://github.com/niktos12/niktos12/blob/main/css3-original.svg' width="100" height="100">
-  <img src='https://github.com/niktos12/niktos12/blob/main/sass-original.svg' width="100" height="100">
-  <img src='https://github.com/niktos12/niktos12/blob/main/javascript-original.svg' width="100" height="100">
+  <img src='https://github.com/niktos12/niktos12/blob/main/html5-original.svg' width="50" height="50">
+  <img src='https://github.com/niktos12/niktos12/blob/main/css3-original.svg' width="50" height="50">
+  <img src='https://github.com/niktos12/niktos12/blob/main/sass-original.svg' width="50" height="50">
+  <img src='https://github.com/niktos12/niktos12/blob/main/javascript-original.svg' width="50" height="50">
 </div>
 And start learning:
 <img src='https://github.com/niktos12/niktos12/blob/main/react-original.svg' width="100" height="100">
+
+# My statistics:
+![GitHub top language](https://img.shields.io/github/languages/top/niktos12/niktos12)
+
