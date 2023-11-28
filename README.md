@@ -10,6 +10,8 @@
   ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![SCSS](https://img.shields.io/badge/_-SCSS-C6538C.svg?style=for-the-badge)
   ![Static Badge](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square&color=fff)
+  ![Static Badge](https://img.shields.io/badge/Swiper)
+
 # And start learning:
 ![Static Badge](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
