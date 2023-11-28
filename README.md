@@ -6,8 +6,8 @@
 - I`m studying in college
 # Languages and tools that i know:
 <div>
-  ![<img src='https://github.com/niktos12/niktos12/blob/main/html5-original.svg' width="50" height="50">](https://img.shields.io/badge/HTML5?logo=https%3A%2F%2Fgithub.com%2Fniktos12%2Fniktos12%2Fblob%2Fmain%2Fhtml5-original.svg
-)
+  ![Static Badge](https://img.shields.io/badge/HTML5?logo=https%3A%2F%2Fgithub.com%2Fniktos12%2Fniktos12%2Fblob%2Fmain%2Fhtml5-original.svg)
+
   <img src='https://github.com/niktos12/niktos12/blob/main/css3-original.svg' width="50" height="50">
   <img src='https://github.com/niktos12/niktos12/blob/main/sass-original.svg' width="50" height="50">
   <img src='https://github.com/niktos12/niktos12/blob/main/javascript-original.svg' width="50" height="50">
