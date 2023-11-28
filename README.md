@@ -15,5 +15,8 @@
 
 # My statistics:
 ![GitHub top language](https://img.shields.io/github/languages/top/niktos12/niktos12)
+
+![GitHub language count](https://img.shields.io/github/languages/count/niktos12/niktos12)
+
 ![Static Badge](https://www.codewars.com/users/niktos12/badges/large)
 
