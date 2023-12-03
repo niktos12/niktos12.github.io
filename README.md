@@ -20,6 +20,7 @@
 # And start learning:
 ![Static Badge](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## My statistics:
 [![GitHub Streak](https://streak-stats.demolab.com?user=niktos12&theme=dark)](https://git.io/streak-stats)
